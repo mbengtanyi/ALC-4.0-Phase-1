@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase 1</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button01_alc">ABOUT ALC</string>
+    <string name="button02_profile">MY PROFILE</string>
+
+    <string name= "name_view">Kamadje Allen</string>
+    <string name="email_address_view">Email: allenkamadje@gmail.com</string>
+    <string name = "android_track_view">Track: Android Track</string>
+    <string name="country_view">Country: Cameroon</string>
+    <string name="phone_number02_view">Phone Num: +237 670 166 324</string>
+    <string name="phone_number01_view">Phone Num: +237 669 390 826</string>
+    <string name="slack_username_mbeng_tanyi">Slack Username: @Mbeng Tanyi</string>
+    <string name="mbeng_tanyi_tanyi_tarkang">Mbeng Tanyi Tanyi Tarkang</string>
+
+
+</resources>
